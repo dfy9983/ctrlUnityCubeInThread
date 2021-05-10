@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctrlUnityCubeInThread", "ctrlUnityCubeInThread\ctrlUnityCubeInThread.vcxproj", "{176EAE6D-DC32-4A82-9664-D64051EA75E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176EAE6D-DC32-4A82-9664-D64051EA75E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{176EAE6D-DC32-4A82-9664-D64051EA75E4}.Debug|x86.Build.0 = Debug|Win32
+		{176EAE6D-DC32-4A82-9664-D64051EA75E4}.Release|x86.ActiveCfg = Release|Win32
+		{176EAE6D-DC32-4A82-9664-D64051EA75E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06330650-96AA-4F41-9AF9-A7C33AF8949B}
+	EndGlobalSection
+EndGlobal
